@@ -32,6 +32,7 @@
 ![生成SSH密匙](https://www.louimg.com/u/20200325/19150462.png "生成SSH密匙")
 ![生成SSH密匙](https://www.louimg.com/u/20200325/19233220.png "生成SSH密匙")
 ![生成SSH密匙](https://www.louimg.com/u/20200325/19233373.png "生成SSH密匙")
+出现上图
 ## 保存密匙
 
 
