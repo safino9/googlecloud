@@ -48,6 +48,11 @@
 * 启动磁盘: 推荐选CentOS 8，本文命令都是基于CentOS 8, 如选Debian, Ubuntu等其他系统, 命令会稍有不同, 自行解决。<br>
 * 勾选HTTP和HTTPS<br>
 ![实例填写](https://www.louimg.com/u/20200325/23151022.png "实例填写")
+* 添加第二部中生成的SSH密匙
+![实例填写](https://www.louimg.com/u/20200325/2321322.png "实例填写")
+* 创建静态IP
+![实例填写](https://www.louimg.com/u/20200325/23275862.png "实例填写")
+
 
 ## 
 
