@@ -35,12 +35,17 @@
 ## 保存密匙
 点击Conversions->Export Open SSH Key把密匙文件保存到电脑，后边使用SSH工具连接谷歌云服务器时会用到。
 ![密匙上传](https://www.louimg.com/u/20200325/21193488.png "密匙上传")
+# 三、谷歌云创建虚拟机实例（服务器）
+导航栏->computer engine->虚拟机实例，点击创建实例，如下图<br>
+![实例路劲](https://www.louimg.com/u/20200325/21452018.png "实例路劲")
 
 
-# 二、准备SSH工具密匙
 
 
-# 三、准备域名和解析
+
+
+
+# 五、准备域名和解析
 ## 域名购买
 这里以购买域名为例，免费的域名网上很多，比如可到Freenom申请。不过还是建议购买一个域名，因为综合来说更稳定，况且现在的域名价格也不是很贵。[免费跟付费的域名有什么区别，请点击查看](https://blog.csdn.net/liangtaox8/article/details/96839227)。我是在大名鼎鼎的域名提供商godaddy([官网](https://www.godaddy.com/))上购买的。当初是准备建设一个自己的博客而买的。当然越常见的域名后缀价格越高，比如.com、.net、.cn、.org等这些就属于常见的域名。我的购买账单如图：<br>
 ![godaddy账单](https://www.louimg.com/u/20200322/19103367.png "godaddy账单")
