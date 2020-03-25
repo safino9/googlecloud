@@ -39,7 +39,7 @@
 ## 找到创建实例
 * 导航栏->computer engine->虚拟机实例，点击创建实例，如下图<br>
 ![实例路劲](https://www.louimg.com/u/20200325/21452018.png "实例路劲")
-## 实例填写
+## 创建实例过程填写
 `我把创建实例过程中需要填写修改的地方全部标注出来`<br>
 * 名称: 随便填<br>
 * 地区: 建议选asia-east1-c，asia-east1-a, asia-east1-b, asia-east1-c 机房都在中国台湾彰化县, 实测c区更好。<br>
@@ -57,16 +57,7 @@
 ![实例填写](https://www.louimg.com/u/20200325/23330175.png "实例填写")
 * 创建好的实例如图所示
 ![实例填写](https://www.louimg.com/u/20200325/23414747.png "实例填写")
-
-## 
-
-
-
-
-
-
-
-# 五、准备域名和解析
+# 四、准备域名
 ## 域名购买
 这里以购买域名为例，免费的域名网上很多，比如可到Freenom申请。不过还是建议购买一个域名，因为综合来说更稳定，况且现在的域名价格也不是很贵。[免费跟付费的域名有什么区别，请点击查看](https://blog.csdn.net/liangtaox8/article/details/96839227)。我是在大名鼎鼎的域名提供商godaddy([官网](https://www.godaddy.com/))上购买的。当初是准备建设一个自己的博客而买的。当然越常见的域名后缀价格越高，比如.com、.net、.cn、.org等这些就属于常见的域名。我的购买账单如图：<br>
 ![godaddy账单](https://www.louimg.com/u/20200322/19103367.png "godaddy账单")
@@ -75,8 +66,9 @@
 ![godaddy购买](https://www.louimg.com/u/20200325/15271181.png "godaddy购买")
 ![godaddy购买](https://www.louimg.com/u/20200325/15394149.png "godaddy购买")
 ![godaddy购买](https://www.louimg.com/u/20200325/15394328.png "godaddy购买")
-## 域名解析
-* 准备DNS服务器，这里推荐用DNSPOD([官网](https://www.dnspod.cn))，这是一个提供免费域名解析的网站，自行注册，注册完成后，进入控制台，找到DNS管理->我的域名，添加域名。如下图
+# 五、把域名解析到谷歌云服务器地址
+## 准备DNS服务器
+这里推荐用DNSPOD([官网](https://www.dnspod.cn))，这是一个提供免费域名解析的网站，自行注册，注册完成后，进入控制台，找到DNS管理->我的域名，添加域名。如下图
 ![域名解析](https://www.louimg.com/u/20200325/15515655.png "域名解析")
 * 点击添加的域名，如下图
 ![域名解析](https://www.louimg.com/u/20200325/15515655.png "域名解析")
