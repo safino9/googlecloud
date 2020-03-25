@@ -31,10 +31,10 @@
 打开puttygen.exe([官网](https://www.puttygen.com/)), 直接点generate, 在下图红圈标注的空白区域不断移动鼠标直到生成密匙<br>
 ![生成SSH密匙](https://www.louimg.com/u/20200325/19150462.png "生成SSH密匙")
 ![生成SSH密匙](https://www.louimg.com/u/20200325/19233220.png "生成SSH密匙")
-![生成SSH密匙](https://www.louimg.com/u/20200325/20591892.png "生成SSH密匙")
-出现上图
+![生成SSH密匙](https://www.louimg.com/u/20200325/21091173.png "生成SSH密匙")
 ## 保存密匙
-
+点击Conversions->Export Open SSH Key把密匙文件保存到电脑，后边使用SSH工具连接谷歌云服务器时会用到。
+![密匙上传](https://www.louimg.com/u/20200325/21193488.png "密匙上传")
 
 
 # 二、准备SSH工具密匙
