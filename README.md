@@ -36,7 +36,8 @@
 点击Conversions->Export Open SSH Key把密匙文件保存到电脑，后边使用SSH工具连接谷歌云服务器时会用到。
 ![密匙上传](https://www.louimg.com/u/20200325/21193488.png "密匙上传")
 # 三、谷歌云创建虚拟机实例（服务器）
-导航栏->computer engine->虚拟机实例，点击创建实例，如下图<br>
+## 找到创建实例
+* 导航栏->computer engine->虚拟机实例，点击创建实例，如下图<br>
 ![实例路劲](https://www.louimg.com/u/20200325/21452018.png "实例路劲")
 ## 实例填写
 `我把创建实例过程中需要填写修改的地方全部标注出来`<br>
@@ -48,11 +49,12 @@
 * 启动磁盘: 推荐选CentOS 8，本文命令都是基于CentOS 8, 如选Debian, Ubuntu等其他系统, 命令会稍有不同, 自行解决。<br>
 * 勾选HTTP和HTTPS<br>
 ![实例填写](https://www.louimg.com/u/20200325/23151022.png "实例填写")
-* 添加第二部中生成的SSH密匙
+* 添加第二步中生成的SSH密匙
 ![实例填写](https://www.louimg.com/u/20200325/2321322.png "实例填写")
 * 创建静态IP
 ![实例填写](https://www.louimg.com/u/20200325/23275862.png "实例填写")
-
+* 以上全部完成后，点击创建
+![实例填写](https://www.louimg.com/u/20200325/23330175.png "实例填写")
 
 ## 
 
