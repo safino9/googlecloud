@@ -99,7 +99,7 @@ sudo -i，切换成功后，如下图
 * 依次运行以下4条命令
   * 安装wget
     * yum install -y wget
-  *下载shell脚本
+  * 下载shell脚本
     * wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
   * 给脚本赋予执行权限
     * chmod +x bbr.sh
