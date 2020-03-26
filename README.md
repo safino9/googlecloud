@@ -110,7 +110,7 @@ sudo -i，切换成功后，如下图
 * 执行以下命令一键部署，运行如下图<br>
 `curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh`<br>
 ![执行脚本](https://www.louimg.com/u/20200326/15302431.png "执行脚本")
-* 选择数字1，开始安装Trojan，安装过程中需要重启，如下图，选择Y
+* 选择数字1，开始安装Trojan，安装过程中要输入绑定到本VPS的域名，如下图
 ![执行脚本](https://www.louimg.com/u/20200326/15385460.gif "执行脚本")
-
-
+* 输入我的域名sxcool1024l.com，你自己输入你的域名，最后结果如图，复制红圈中的链接在浏览器打开，下载Trojan文件压缩包，如下图
+![执行脚本](https://www.louimg.com/u/20200326/15582494.png "执行脚本")
