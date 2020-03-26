@@ -98,11 +98,11 @@ sudo -i，切换成功后，如下图
 ![切换root](https://www.louimg.com/u/20200326/14470342.png "切换root")
 * 依次运行以下4条命令
   * 安装wget
-    * 命令：yum install -y wget，运行如下图，![安装wget](https://www.louimg.com/u/20200326/15022413.png "安装wget")
+    * 命令："yum install -y wget"，运行如下图，![安装wget](https://www.louimg.com/u/20200326/15022413.png "安装wget")
   * 下载shell脚本
-    * 命令：wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh，运行如下图，
+    * 命令："wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh"，运行如下图，
     ![下载shell](https://www.louimg.com/u/20200326/15094069.png "下载shell")
   * 给脚本赋予执行权限
-    * chmod +x bbr.sh
+    * 命令："chmod +x bbr.sh"
   * 执行脚本
-    * ./bbr.sh
+    * 命令："./bbr.sh"
