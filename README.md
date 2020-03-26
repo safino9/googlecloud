@@ -98,7 +98,7 @@ sudo -i，切换成功后，如下图
 ![切换root](https://www.louimg.com/u/20200326/14470342.png "切换root")
 * 依次运行以下4条命令
   * 安装wget
-    * yum install -y wget
+    * 命令：yum install -y wget，运行如下图，![安装wget](https://www.louimg.com/u/20200326/15022413.png "安装wget")
   * 下载shell脚本
     * wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
   * 给脚本赋予执行权限
