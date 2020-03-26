@@ -128,7 +128,7 @@ instance-1是实例名
 最后都是以 $ 或者 # 号结束，普通用户以 $ 号结束，只有root用户以 # 结束。
 ![SSH连接成功](https://www.louimg.com/u/20200326/14111468.png "SSH连接成功")
 <br>[回到顶部](#readme)
-# 七、部署加速和Trojan
+# 七、部署BBR加速和Trojan
 ## 部署BBR加速
 * Linux系统中root用户拥有最高权限, 我们需要先切换到root用户, 否则运行某些命令时会提示无权限。Xshell连上服务器后, 先要切换到root用户。输入命令:
 sudo -i，切换成功后，如下图
