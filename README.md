@@ -105,4 +105,8 @@ sudo -i，切换成功后，如下图
   * 给脚本赋予执行权限
     * 命令：`chmod +x bbr.sh`
   * 执行脚本
-    * 命令：`./bbr.sh`，运行如下图<br>![执行脚本](https://www.louimg.com/u/20200326/15194644.png "执行脚本")
+    * 命令：`./bbr.sh`，运行如下图<br>![执行脚本](https://www.louimg.com/u/20200326/15253383.png "执行脚本")
+## 部署Trojan
+* 执行以下命令一键部署<br>
+`curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh`<br>
+
