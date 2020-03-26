@@ -110,7 +110,11 @@ sudo -i，切换成功后，如下图
 * 执行以下命令一键部署，运行如下图<br>
 `curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh`<br>
 ![执行脚本](https://www.louimg.com/u/20200326/15302431.png "执行脚本")
-* 选择数字1，开始安装Trojan，安装过程中要输入绑定到本VPS的域名，如下图
+* 选择数字1，开始安装Trojan，安装过程中要输入绑定到本VPS的域名，如下图(动态图)
 ![执行脚本](https://www.louimg.com/u/20200326/15385460.gif "执行脚本")
 * 输入我的域名sxcool1024l.com，你自己输入你的域名，最后结果如图，复制红圈中的链接在浏览器打开，下载Trojan文件压缩包，如下图
 ![执行脚本](https://www.louimg.com/u/20200326/15582494.png "执行脚本")
+* 打开下载的Trojan压缩包，此时你直接双击trojan.exe即可运行Trojan实现翻墙，但是它是一个黑命令行界面，看着很不舒服。打开config.json文件可查看Trojan的服务器地址，端口、密码等信息，方便我们添加节点到其它科学上网工具。具体如下图
+![执行脚本](https://www.louimg.com/u/20200326/17062580.png "执行脚本")
+***
+# 六、用
