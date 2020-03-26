@@ -96,3 +96,12 @@ instance-1是实例名
 * Linux系统中root用户拥有最高权限, 我们需要先切换到root用户, 否则运行某些命令时会提示无权限。Xshell连上服务器后, 先要切换到root用户。输入命令:
 sudo -i，切换成功后，如下图
 ![切换root](https://www.louimg.com/u/20200326/14470342.png "切换root")
+* 依次运行以下4条命令
+  * 安装wget
+    * yum install -y wget
+  *下载shell脚本
+    * wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+  * 给脚本赋予执行权限
+    * chmod +x bbr.sh
+  * 执行脚本
+    * ./bbr.sh
