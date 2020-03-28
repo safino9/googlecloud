@@ -122,9 +122,9 @@
 ![SSH连接](https://www.louimg.com/u/20200326/13590687.png "SSH连接")
 <br>[回到顶部](#readme)
 * 连接成功后如图所示，连接成功后才可以进行接下来的操作<br>
-sxszcoollm是当前登录的用户名，你的跟我的不一样
-instance-1是实例名
-~是当前工作路径
+sxszcoollm是当前登录的用户名，你的跟我的不一样<br>
+instance-1是实例名<br>
+~是当前工作路径<br>
 最后都是以 $ 或者 # 号结束，普通用户以 $ 号结束，只有root用户以 # 结束。
 ![SSH连接成功](https://www.louimg.com/u/20200326/14111468.png "SSH连接成功")
 <br>[回到顶部](#readme)
