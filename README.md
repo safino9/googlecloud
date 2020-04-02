@@ -159,8 +159,12 @@ sudo -i，切换成功后，如下图
 ***
 **到这里，我们的谷歌云搭建Trojan全部完成**
 ***
-# 八、福利：给大家一个Windows端只支持Trojan的图形界面工具
+# 八、福利
+## 给大家一个Windows端只支持Trojan的图形界面工具
 ![福利](https://www.louimg.com/u/20200326/1809222.png "福利")
+## vultr新户充10$送100$活动
+* 著名云服务器商vultr也在搞新户充10$送100$活动。而且关注它的推特还会送3$，我自己充了10$，加上送的一共113$，够玩一阵子了。[vultr活动注册](https://www.vultr.com/?ref=8477410)<br>
+* [vultr16个机房测速工具](https://www.lanzous.com/iawn5je)<br>
 **欢迎加入电报群一起交流，群内每月会赠送草榴邀请码： https://t.me/sxcool1024g**
 <br>[回到顶部](#readme)
 
