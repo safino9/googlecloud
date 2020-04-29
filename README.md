@@ -181,6 +181,5 @@ sudo -i，切换成功后，如下图
 * 著名云服务器商vultr也在搞新户充10$送100$活动。而且关注它的推特还会送3$，我自己充了10$，加上送的一共113$，够玩一阵子了。[vultr活动注册](https://www.vultr.com/?ref=8477410)<br>
 * [vultr16个机房测速工具](https://sxcool1024.lanzous.com/iawn5je)<br>
 # 电报交流群：https://t.me/sxcool1024g
-![扫码进电报群](https://www.nsaimg.com/2020/04/17/2a6cb36afc25f.jpg "扫码进电报群")
 [回到顶部](#readme)
 
