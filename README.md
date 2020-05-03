@@ -182,7 +182,7 @@ sudo -i，切换成功后，如下图
 ![福利](https://www.louimg.com/u/20200326/1809222.png "福利")
 [Trojan-Qt5下载](https://github.com/TheWanderingCoel/Trojan-Qt5/releases)
 ## vultr新户充10$送100$活动
-* 著名云服务器商vultr也在搞新户充10$送100$活动。而且关注它的推特还会送3$，我自己充了10$，加上送的一共113$，够玩一阵子了。[vultr活动注册](https://www.vultr.com/?ref=8477410)<br>
+* 著名云服务器商vultr也在搞新户充10$送100$活动。而且关注它的推特还会送3$，我自己充了10$，加上送的一共113$，够玩一阵子了。[vultr获得100$活动注册](https://www.vultr.com/?ref=8477411-6G)<br>
 * [vultr16个机房测速工具](https://sxcool1024.lanzous.com/iawn5je)<br>
 # 电报交流群：https://t.me/sxcool1024g
 [回到顶部](#readme)
