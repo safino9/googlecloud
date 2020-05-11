@@ -167,6 +167,7 @@ sudo -i，切换成功后，如下图
 [clash设置教程](https://portal.shadowsocks.nz/knowledgebase/182/)<br>
 [shadowrocket设置教程](https://portal.shadowsocks.nz/knowledgebase/177/)<br>
 [Igniter设置教程](https://portal.shadowsocks.nz/knowledgebase/175/)<br>
+[回到顶部](#readme)
 # 九、免费到期如何防止意外扣费
 最近听好多伙伴说谷歌云试用到期或者试用金额用完后又被谷歌扣了费，好多伙伴非常郁闷，不是说免费的吗，为啥还会扣费。这里首先提醒大家，谷歌云里边你不了解的东西千万别乱点。接下来，我们一起看如何防止免费到期被扣费，接下来所讲的都是建立于你是严格按照前边步骤操作的基础之上，你没有操作其它的。<br>
 **不要点激活或者升级**<br>
